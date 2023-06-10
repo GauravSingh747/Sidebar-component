@@ -38,11 +38,12 @@ const Sidebar = ({ isSidebarOpen, closeSidebar }) => {
       </ul> */}
       <div>
         <p>Home</p>
-        <p>About</p>
+        <p>About-US</p>
         <p>Contact</p>
         <p>Residential</p>
         <p>Commercial</p>
         <p>sco</p>
+        <p>Links</p>
       </div>
     </aside>
   );
